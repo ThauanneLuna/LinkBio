@@ -1,75 +1,136 @@
-# Thau Luna Acessórios + TL Design 🌙✨
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=24,20,33&section=header"/>
 
-> Hub de links profissional e vitrine digital para a marca Thau Luna Acessórios e TL Design.
+<div align="center">
 
-<br> 📝 Sobre o Projeto
+<img src="logo.webp" width="120"/>
 
-Este projeto consiste em uma página de direcionamento de tráfego (Link-in-Bio) totalmente personalizada e de alta performance, desenvolvida para unificar a presença digital da marca **Thau Luna Acessórios + TL Design**. 
+# ✨ Thau Luna Acessórios ✨
 
-A aplicação centraliza o acesso ao catálogo de produtos, formulários de pedidos personalizados e mimos, além de integrar botões de conversão direta via WhatsApp e navegação para as redes sociais (Instagram e Pinterest). O sistema conta ainda com uma seção de vitrine dinâmica para destacar os principais produtos artesanais da marca, substituindo agregadores de links genéricos por uma solução proprietária, leve e otimizada para dispositivos móveis.
+### 🎀 TL Design • Sites & Identidade Visual
 
-<br> ⚡ Principais Funcionalidades
+<p>
+Acessórios personalizados, criatividade e design feito com carinho 💗
+</p>
 
-* **Central de Conectividade** — Roteamento inteligente para catálogo digital, formulários de captação e canais de atendimento.
-* **Seção de Vitrine Dinâmica** — Exibição visual de produtos de alto giro como a Box Surprise, Chaveiros e Polaroids.
-* **Componente de Status em Tempo Real** — Indicador visual dinâmico sinalizando a abertura de pedidos personalizados.
-* **Arquitetura Responsiva Mobile-First** — Layout estruturado para navegação fluida em smartphones e desktops.
-* **SEO e Acessibilidade** — Uso de tags semânticas HTML5 e atributos `aria-label` para garantir leitura inclusiva por leitores de tela.
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Design+com+alma+e+delicadeza+✨;Acessórios+personalizados+🎀;Criatividade+que+encanta+🌙" />
 
-<br> 🛠️ Stack Tecnológica
+<br>
 
-* **Estrutura:** HTML5 Semântico com foco em acessibilidade e SEO.
-* **Estilização:** CSS3 Moderno (Variáveis customizadas e Grid/Flexbox Layout).
-* **Tipografia:** Google Fonts (Cormorant Garamond para elegância e Jost para legibilidade).
-* **Ícones:** Vetores SVG nativos integrados ao código para máxima performance e tempo de carregamento reduzido.
+<img src="https://img.shields.io/badge/Status-Pedidos%20Abertos-ff69b4?style=for-the-badge"/>
 
-<br> 📁 Estrutura de Arquivos
+</div>
 
-```text
-thau-luna-acessorios/
-├── index.html          # Estrutura e conteúdo semântico da aplicação
-├── style.css           # Paleta de cores, tipografia e regras de responsividade
-├── logo.webp           # Logotipo oficial otimizado em formato WebP
-└── assets/             # Imagens e miniaturas dos produtos em destaque
-```
+---
 
-<br> 🚀 Guia de Instalação e Execução
+# 🌷 Sobre a Marca
 
-Para rodar este projeto localmente no seu ambiente de desenvolvimento, siga os passos abaixo:
+✨ A **Thau Luna Acessórios** nasceu para transformar carinho em detalhes únicos.
 
-1. Clone este repositório para a sua máquina local:
-```bash
-git clone https://github.com
-```
+Criamos:
+- 🎀 Pulseiras personalizadas
+- 🛍️ Chaveiros artesanais
+- 📸 Polaroids decorativas
+- 🎁 Caixinhas surpresa
+- 🌙 Mimos personalizados
 
-2. Acesse a pasta do projeto:
-```bash
-cd siteinstitucionalthauacessorios
-```
+Além disso, através da **TL Design**, desenvolvemos:
+- 💻 Sites personalizados
+- 🎨 Identidade visual
+- 📱 Artes para redes sociais
+- ✨ Design criativo e delicado
 
-3. Inicialize a aplicação:
-* Abra o arquivo `index.html` diretamente em qualquer navegador moderno.
-* Ou utilize a extensão **Live Server** no VS Code para ter recarregamento automático em tempo real.
+---
 
-> ℹ️ **Nota:** Este projeto foi construído puramente com tecnologias nativas da web, dispensando a instalação de gerenciadores de pacotes ou compiladores externos.
+# 💖 Catálogo & Links
 
-<br> 🔗 Links Importantes
+<div align="center">
 
-* 🔗 [Site em Produção](https://thauanneluna.github.io/siteinstitucionalthauacessorios/)
-* 📁 [Repositório do Código](https://github.com)
+| 🌸 Link | ✨ Descrição |
+|---|---|
+| 🛍️ [Catálogo Thau Luna](https://thau-luna-acessorios.stoqui.shop) | Veja todos os modelos disponíveis |
+| 🎀 [Acessórios Personalizados](https://docs.google.com/forms/d/1ulDz1KyTCPJGxYa8jocjZ30fDqxKVQ8FsiuIDZAPsO4/viewform) | Faça seu pedido personalizado |
+| 🎁 [Mimos que Encantam](https://docs.google.com/forms/d/1_NE20AOrOd4vn_cYbVzmM6PD_GYmsno3cWKlmsrQunU/viewform) | Presentes especiais e criativos |
+| 🌙 [Conheça a Marca](https://thauanneluna.github.io/siteinstitucionalthauacessorios/) | História e essência da marca |
+| 💬 [WhatsApp](https://wa.me/5585987511775) | Faça pedidos ou solicite orçamento |
+
+</div>
+
+---
+
+# ✨ Produtos em Destaque
+
+<div align="center">
+
+| 🎁 Produto | 💗 Descrição |
+|---|---|
+| Box Surprise | Caixinha surpresa com mimos personalizados |
+| Chaveiros | Feitos artesanalmente com carinho |
+| Polaroids | Fotos decorativas personalizadas |
+
+</div>
+
+---
+
+# 🎨 Estilo Visual
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Aesthetic-Coquette-ffc0cb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Style-Pink%20Elegant-ff69b4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vibe-Soft%20Luxury-dc84f3?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌸 Redes Sociais
+
+<div align="center">
+
+<a href="https://www.instagram.com/thauluna_acessorios?igsh=MTU4YWdycjNtMDg0Mg==">
+<img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://pin.it/6CPjnO3MH">
+<img src="https://img.shields.io/badge/Pinterest-ffc0cb?style=for-the-badge&logo=pinterest&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📞 Contato
+
+<div align="center">
+
+📱 **Telefone:** (85) 98751-1775
+
+📧 **E-mail:** thauluna.acessorios@gmail.com
+
+📍 **Localização:** Maracanaú — CE
+
+</div>
 
 ---
 
 <div align="center">
 
-<a href="https://wa.me/5585987511775" target="_blank">
-  <img src="https://shields.io" alt="WhatsApp"/>
+### 💗 Vamos criar algo incrível juntas?
+
+<a href="https://wa.me/5585987511775">
+<img src="https://img.shields.io/badge/Entrar%20em%20Contato-ff69b4?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-<a href="https://github.com" target="_blank">
-  <img src="https://shields.io" alt="GitHub"/>
-</a>
-<a href="https://linkedin.com" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn"/>
-</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=24,20,33"/>
+
+### © 2025 THAU LUNA ACESSÓRIOS + TL DESIGN
+
+✨ Todos os direitos reservados ✨
 
 </div>
