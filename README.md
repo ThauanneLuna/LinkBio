@@ -47,7 +47,7 @@ Além disso, através da **TL Design**, desenvolvemos:
 
 | 🌸 Link | ✨ Descrição |
 |---|---|
-| 🛍️ [Catálogo Thau Luna](https://thau-luna-acessorios.stoqui.shop) | Veja todos os modelos disponíveis |
+| 🛍️ [Catálogo Thau Luna](https://thaulunastudio.stoqui.shop) | Veja todos os modelos disponíveis |
 | 🎀 [Acessórios Personalizados](https://docs.google.com/forms/d/1ulDz1KyTCPJGxYa8jocjZ30fDqxKVQ8FsiuIDZAPsO4/viewform) | Faça seu pedido personalizado |
 | 🎁 [Mimos que Encantam](https://docs.google.com/forms/d/1_NE20AOrOd4vn_cYbVzmM6PD_GYmsno3cWKlmsrQunU/viewform) | Presentes especiais e criativos |
 | 🌙 [Conheça a Marca](https://thauanneluna.github.io/siteinstitucionalthauacessorios/) | História e essência da marca |
