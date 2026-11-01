@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="logo.webp" width="120"/>
+<img src="assets/logo.webp" width="120"/>
 
 # ✨ Thau Luna Acessórios ✨
 
