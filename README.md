@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Logo Thau Luna Studio" width="190">
+  <img src="assets/logo.jpg" alt="Logo Thau Luna Studio" width="190">
 </p><h1 align="center">🌙 Thau Luna Studio</h1><p align="center">
   <strong>Onde cada detalhe conta.</strong>
 </p><p align="center">
